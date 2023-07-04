@@ -1,0 +1,50 @@
+/* Основной фон */
+.root {
+    -fx-background-color: #f2f2f2;
+}
+
+/* Заголовок */
+.label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+/* Поля ввода и метки */
+.text-field, .password-field, .label {
+    -fx-font-size: 14px;
+}
+
+/* Разметка */
+.grid-pane {
+    -fx-alignment: center;
+    -fx-padding: 20px;
+}
+
+/* Кнопки */
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #1e90ff;
+    -fx-text-fill: white;
+    -fx-padding: 8px 16px;
+    -fx-border-radius: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #007acc;
+}
+
+/* Отступы */
+.vbox {
+    -fx-spacing: 10px;
+    -fx-alignment: center;
+}
+
+.hbox {
+    -fx-spacing: 10px;
+    -fx-alignment: center;
+    -fx-padding: 10px;
+}
+
+.forget:hover{
+    -fx-fill: #eee;
+}

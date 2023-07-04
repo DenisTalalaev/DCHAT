@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="graalvm">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../graalvm" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../graalvm" recursive="false" />
+  </library>
+</component>
